@@ -31,5 +31,4 @@ htmlcov/
 .github/**
 ./myENV
 myENV/
-./env_file
-env_file/
+
